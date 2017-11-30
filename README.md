@@ -1,2 +1,0 @@
-# ClientVersions
-Teamspeak Version Lists
